@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://psv4.userapi.com/c235131/u13359694/docs/d8/be9b3c3891e2/eyefull7.png?extra=yk8LR_ff8mYgITu_2hPaCJQR-7d767Hd5AStxSICi5hAj7Qz036l2pJwWj52bbmX3Z0JvsGIGDWWiUNRrRT90j66OXgIawwRuVINkmy2zYxmjxO1q4KAb_v4soPrjTb-fxvHNy-L_F6xHJ2QLkFBtQ" height="200" align="center"/>
-  <img src="https://psv4.userapi.com/c235131/u13359694/docs/d34/071ec1e0c4cf/eye2.gif?extra=q1UStDBmKNPH_WFw9pn1aeZNcU1RnpTlVfOAZpsxKfMx-xjAO0S2R6OsP6h-RoHFpdFszOwEbf8TsqA3XmLRXmLRMcds83swOVxZO5UOpxslF9owLvSB5joNVA2MV0b2AEdYupzX94oKfhuanKM7EQ" height="200" align="center"/>
+  <img src="https://psv4.userapi.com/c235131/u13359694/docs/d34/071ec1e0c4cf/eye2.gif?extra=q1UStDBmKNPH_WFw9pn1aeZNcU1RnpTlVfOAZpsxKfMx-xjAO0S2R6OsP6h-RoHFpdFszOwEbf8TsqA3XmLRXmLRMcds83swOVxZO5UOpxslF9owLvSB5joNVA2MV0b2AEdYupzX94oKfhuanKM7EQ" height="200" align="center" position="absolut"/>
 </div>
 </div>
 <h1 align="center">Hi 👋, I'm Andrew Isupov</h1><div>
