@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://c.tenor.com/FrgtgaWOjIEAAAAC/mexinyan-taco.gif" height="200" align="center"/>
-  <img src="https://i.postimg.cc/K8XBBzcM/png-transparent-chat-cloud-speech-talk-text-evil-icons-user-interface-icon-thumbnail.png" height="150" align="center"/>
+  <img src="https://i.postimg.cc/k4YQTxMh/1.png" height="150" align="center"/>
 </div>
 </div>
 <h1 align="center">Hi 👋, I'm Andrew Isupov</h1><div>
